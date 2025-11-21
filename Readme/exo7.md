@@ -1,0 +1,1 @@
+exercice 7, j’écris un test j'ai utulisé git stash et pour afficher git stash et le dernier je sais plus 
